@@ -15,8 +15,7 @@
     "framer-motion": "^11.0.0",
     "lucide-react": "^0.460.0",
     "pdf-parse": "^1.1.1",
-    "mammoth": "^1.8.0",
-    "crypto": "^1.0.1"
+    "mammoth": "^1.8.0"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
